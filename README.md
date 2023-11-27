@@ -1,7 +1,7 @@
 # Projeto Meclar PDF 
 
 <p>
- Projeto em Python desenvolvido durante a graduação de ADS.
+ Aplicação em Python para mesclar arquivos PDF, utlizando Tkinter para a interface gráfica.
 </p>
 <p>Instruções: Clique em Adicionar para escolher os arquivos em PDF e utilize as setas para definir a ordem de mesclagem.</p>
 <div>
